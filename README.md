@@ -1,2 +1,3 @@
-# ProiectSincretic #Baltag Cristian-Florian
+# ProiectSincretic Baltag Cristian-Florian
+
  Algoritmul lui Euclid
