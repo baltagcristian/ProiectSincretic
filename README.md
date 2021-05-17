@@ -1,0 +1,2 @@
+# ProiectSincretic
+ Algoritmul lui Euclid
