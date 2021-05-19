@@ -1,3 +1,2 @@
-# ProiectSincretic Baltag Cristian-Florian
-
+# ProiectSincretic
  Algoritmul lui Euclid
